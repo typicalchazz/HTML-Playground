@@ -1,3 +1,3 @@
 let runCode = () => {
-    alert("Hello World!");
+    alert("Data has been pushed to SQL");
 }
