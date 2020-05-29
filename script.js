@@ -1,6 +1,7 @@
-let runCode = () => {
-    alert("Data has been pushed to SQL");
-}
+//let runCode = () => {
+//    alert("Data has been pushed to SQL");
+//}
+
 var list = document.createElement('ul');
 var info = document.createElement('p');
 var html = document.querySelector('html');

@@ -12,3 +12,7 @@ html {
   li {
     margin-left: 20px;
   }
+
+  span.color {
+    color: #f00;
+}
